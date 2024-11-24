@@ -39,6 +39,7 @@ function Home() {
       <AboutUs />
       <Services />
       <Testimonials />
+      <Contact />
     </div>
   );
 }

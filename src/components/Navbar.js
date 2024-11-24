@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark">
     <div className="container">
-      <a className="navbar-brand" href="">
+      <a className="navbar-brand" href="s">
         <img
           src={logo}
           alt="Cranvalor Logo"
